@@ -1,0 +1,53 @@
+{
+  "name": "angular-strap-micro",
+  "description": "AngularStrap - AngularJS directives for Bootstrap",
+  "version": "3.0.2",
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "homepage": "https://github.com/flurrd/angular-strap-micro",
+  "bugs": "https://github.com/flurrd/angular-strap-micro/issues",
+  "author": {
+    "name": "Marcus Halls",
+    "email": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flurrd/angular-strap-micro.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mgcrea/angular-strap/blob/master/LICENSE.md"
+    }
+  ],
+  "main": [
+    "dist/angular-strap.min.js",
+    "dist/angular-strap.tpl.min.js"
+  ],
+  "ignore": [
+    "docs",
+    "test",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "bootstrap": "~3.1.1",
+    "angular-motion": "~0.3.3"
+  },
+  "devDependencies": {
+    "angular-animate": "~1.2.16",
+    "angular-i18n": "~1.2.16",
+    "angular-mocks": "~1.2.16",
+    "angular-motion": "~0.3.1",
+    "angular-route": "~1.2.16",
+    "angular-sanitize": "~1.2.16",
+    "angular-scenario": "~1.2.16",
+    "fastclick": "~1.0.2",
+    "font-awesome": "~4.1.0",
+    "highlightjs": "~8.0.0",
+    "jquery": "~2.1.1"
+  }
+}
